@@ -1,27 +1,36 @@
+#       PKXMD-BOT 
 
-<p align="center">
-  <img src="https://files.catbox.moe/jzquph.jpg" alt="PKXMD-BOT" width="100%">
+   <a>
+                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
+            
+<p align="center"> 
+<up A simple WhatsApp User Bot Coded By pkdriller❤️</u>
 </p>
+<p align="center">
+<img src="https://files.catbox.moe/n7z1gk.jpg"/>       
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+PKX-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+pkdriller❤️;RELEASED+DATE+07%2F7%2F2030."                               alt="Typing SVG" /></a>
+</p> 
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-pkdriller-red.svg?style=for-the-badge&logo=github"></a>
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/Pkdriller"><img title="Author" src="https://img.shields.io/badge/pkdriller-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/JDZpcAT73fx9Rxrjz1uEta"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254785392165"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<p/>
 
-# 🚀 **PKXMD-BOT** – The Ultimate WhatsApp Bot 🤖🔥  
-
-> **A next-level multi-functional WhatsApp bot with automation, AI capabilities, media tools, and advanced controls!**  
-> Designed for **speed, security, and efficiency**, PKXMD-BOT enhances your WhatsApp experience like never before.  
-
----
-
-## 🎯 **Why Choose PKXMD-BOT?**  
-
-🔹 **Blazing Fast Responses** – No lag, just instant replies.  
-🔹 **AI-Powered Smart Bot** – Engages in real conversations.  
-🔹 **Advanced Group Controls** – Auto-welcome, anti-link, anti-spam & more.  
-🔹 **Unlimited Media Downloads** – YouTube, Instagram, Facebook & more.  
-🔹 **Custom Stickers & GIFs** – Convert images, videos & emojis into stickers.  
-🔹 **Auto-Reaction & Status Reply** – Engages with users automatically.  
-🔹 **Secure & Reliable** – Optimized for performance and safety.  
-🔹 **Fully Open-Source** – Modify & customize as you like!  
-
-
+ <p align="center">
+  <a href="https://pkdriller-site-support.vercel.app/">
+    <img src="https://img.shields.io/badge/Pkdriller WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
+  </a>
+   
+<p align="center">
+<a href="https://github.com/Pkdriller/PKXMD-BOT"><img title="Stars" src="https://img.shields.io/github/stars/Pkdriler/PKXMD-BOT?color=white&style=flat-square"></a>
+<a href="https://github.com/Pkdriller/PKXMD-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/pkdriller/PKXMD-BOT?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Pkdriler/PKXMD-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/pkdriller/PKXMD-BOT?label=Watchers&color=red&style=flat-square"></a>
+<a href="[ ](https://github.com/Pkdriller/PKXMD-BOT)/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Pkdriller/PKXMD-BOT/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+        <a href = ""><img alt="Pkdriller Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
 
 # Setup For Deployment 👇
 
