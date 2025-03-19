@@ -8,7 +8,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "hanspayment", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "pkpayments", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -34,11 +34,11 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-1.\n> Recipient Name:** Mariam Billy Jumanne  
-2.\n> Mobile Number:** 0756530143 (Vodacom) 
+1.\n> Recipient Name:** Benard wangari wachira  
+2.\n> Mobile Number:** 0799056874 (Safaricom) 
 3.\n> Hello 👋\n${nomAuteurMessage}
 5.\n> Payment Method:** Online Payment  
-6.\n> Country:** Tanzania 🇹🇿
+6.\n> Country:** Kenya 🇰🇪
 `;
     
 let menuMsg = `
@@ -58,7 +58,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *hansmd*, déveloper hans Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *pkxmdbot*, déveloper pk Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
