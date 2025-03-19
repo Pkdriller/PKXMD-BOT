@@ -135,7 +135,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ 𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄 ┗━━━┓
+┏━━━┛ PKXMD-BOT┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -211,7 +211,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ 𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄 rank┗━━━┓
+┏━━━┛ PKXMD-BOT rank┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
