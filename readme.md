@@ -9,7 +9,7 @@
 <p align="center">
 <img src="https://files.catbox.moe/fx3sbq.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+PKX-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+pkdriller❤️;RELEASED+DATE+07%2F7%2F2025."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+PKX-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+pkdriller❤️;RELEASED+DATE+10%2F3%2F2025."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-pkdriller-red.svg?style=for-the-badge&logo=github"></a>
