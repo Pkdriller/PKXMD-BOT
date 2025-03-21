@@ -58,7 +58,7 @@ zokou({
     'nom': "🤕",
     'numero': "load...."
   }];
-  let _0x2d5c7e = "Hello👋  *I'm HANS MD Wa Bot* \nThe Following Numbers Are For   *HANS MD* Agents, \nYou Can Ask Them Anything Regarding HANS MD BOTS \nFollow Our Channel For More Tech :https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31 \n*KEEP USING HANS MD*:\n\n";
+  let _0x2d5c7e = "Hello👋  *I'm PKXMD-BOT Wa Bot* \nThe Following Numbers Are For   *PKXMD* Agents, \nYou Can Ask Them Anything Regarding PKXMD-BOT\nFollow Our Channel For More Tech :https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x \n*KEEP USING PKXMD-BOT*:\n\n";
   for (const _0x14eeec of _0x21b56d) {
     _0x2d5c7e += "----------------\n(●) " + _0x14eeec.nom + " : https://wa.me/" + _0x14eeec.numero + "\n";
   }
