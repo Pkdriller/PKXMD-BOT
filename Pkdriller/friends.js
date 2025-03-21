@@ -16,11 +16,11 @@ zokou({
     mybotpic: _0x43a6e2
   } = _0x2358bf;
   const _0x21b56d = [{
-    'nom': "pk from Kenya",
+    'nom': "PK CEO PKXMDBOT",
     'numero': "254785392165" 
   },{
-    'nom': "",
-    'numero': "."
+    'nom': "H.T Power ✨",
+    'numero': "254758909597"
   }, {
     'nom': "",
     'numero': ""
