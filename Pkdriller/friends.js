@@ -16,44 +16,44 @@ zokou({
     mybotpic: _0x43a6e2
   } = _0x2358bf;
   const _0x21b56d = [{
-    'nom': "Keith from Kenya",
-    'numero': "254796299159" 
+    'nom': "pk from Kenya",
+    'numero': "254785392165" 
   },{
-    'nom': "FrediTech from Tanzania 🇹🇿",
-    'numero': "255752593977."
+    'nom': "",
+    'numero': "."
   }, {
-    'nom': "Belta from Kenya 🇰🇪",
-    'numero': "254114141192"
+    'nom': "",
+    'numero': ""
   }, {
-    'nom': "Ibrahim Adams Kenya 🇰🇪",
-    'numero': "254710772666"
+    'nom': "",
+    'numero': ""
   }, {
-    'nom': "Baraka Bega From Tanzania 🇹🇿",
-    'numero': "255762190568"
+    'nom': "",
+    'numero': ""
   }, {
-    'nom': "Boniphace from Tanzania 🇹🇿",
-    'numero': "255716661569"
+    'nom': "",
+    'numero': ""
   }, {
-    'nom': "HANS MD from kenya 🇰🇪",
-    'numero': "254112192119"
+    'nom': "",
+    'numero': ""
   }, {
-    'nom': "Dullah From Tanzania 🇹🇿",
-    'numero': "255716945971"
+    'nom': "",
+    'numero': ""
   }, {
-    'nom': "YassinTech From Tanzania 🇹🇿",
-    'numero': "255621995482"
+    'nom': "",
+    'numero': ""
   }, {
-'nom': "HansTech From Tanzania 🇹🇿",
-    'numero': "255756530143"
+'nom': "",
+    'numero': ""
   }, {
-'nom': "kingHanstz",
-    'numero': "255760774888"
+'nom': "",
+    'numero': ""
   }, {
 'nom': "🤕",
     'numero': "Load...."
   }, {
-'nom': "Kingfreditech From Tanzania 🇹🇿",
-    'numero': "255620814108"
+'nom': "",
+    'numero': ""
   }, {
     'nom': "🤕",
     'numero': "load...."
