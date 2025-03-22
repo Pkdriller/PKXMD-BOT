@@ -19,8 +19,8 @@ zokou({
     'nom': "PK CEO PKXMDBOT",
     'numero': "254785392165" 
   },{
-    'nom': "H.T Power ✨",
-    'numero': "254758909597"
+    'nom': "DEPLOMENT SERVICES",
+    'numero': "+265 885 94 70 19"
   }, {
     'nom': "",
     'numero': ""
