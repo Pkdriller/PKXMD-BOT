@@ -31,16 +31,22 @@
       "required":false   
       },
 
-"AUTO_REACT_STATUS":
+   "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto like status",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
 	  "AUTO_REACT":
     {
       "description":"Enter yes for your bot to auto react",
       "value":"no",
+      "required":false
+    },
+       "AUTO_BIO":
+    {
+      "description":"Enter yes for your bot to auto bio",
+      "value":"yes",
       "required":false
     },
 	  "CHATBOT":
