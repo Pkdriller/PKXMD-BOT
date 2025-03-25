@@ -252,7 +252,7 @@ zokou( {
     const {ms , mybotpic} = commandeOptions ;
 
 
-       let msg = `┏━━┛ beltah-top-rang ┗━━┓\n\n`
+       let msg = `┏━━┛ pkxmdbot-top-rang ┗━━┓\n\n`
        
       let topRanks = await getBottom10Users() ;
         let mention = [] ;
