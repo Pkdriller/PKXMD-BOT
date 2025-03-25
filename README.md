@@ -57,4 +57,49 @@
 <p align="left">
     <a href="https://pkxmdverificationweb.vercel.app/Pkdriller">
  <img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+
+
+
+
+## CONTACT PKDRILLER 
+  
+<a href="https://wa.me/254785392165"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href=" https://chat.whatsapp.com/JDZpcAT73fx9Rxrjz1uEta"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100091580206517&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100091580206517&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/Pkdriller/QUEEN-MONICA-MD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="pkdriller"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+</a>
+<a href="https://www.instagram.com/pk_tech01?igsh=MTM0Y2p3ZHpxMXZraA==">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@Pktech-1911">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </p>
+
+
+   
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+
+
+
+
+<p align="center">
+    <a href="https://https://chat.whatsapp.com/JDZpcAT73fx9Rxrjz1uEta">
+        <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+</p>
+
+## PKDRILLER SUPPORT 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=PKXMDBOT+MAKE; STAR ⭐+AND+FORKS+BY+PKXMD-BOT" alt="Typing SVG" /></a>
+
+
+
+## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
+
+
+ <a href="https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
+ 
         
