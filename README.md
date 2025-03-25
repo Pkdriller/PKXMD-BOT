@@ -101,6 +101,14 @@
 ## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
 
 
- <a href="https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
- 
+ <a href="https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-
+the-badge&logo=whatsapp" width="280"  height="38.45"/></a></p>
+
+ <h2 align="center"> ⭐ APPRECIATION ❤️
+ </h2>
+
+---
+
+<h3 align="center">THANKS EVERYONE WHO IS USING PKXMD-BOT CONTINUE SHOWING LOVE BY FOLLOWING US ON SOCIAL MEDIA PLATFORMS FOR UPDATES ITS ME PKDRILLER</h3>
+
         
