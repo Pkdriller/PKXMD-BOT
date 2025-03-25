@@ -28,7 +28,7 @@ zokou({ nomCom: 'love',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*💃🏽I choose you🥹🥹❤️. And i will choose you over and over and over. Without pause🥹❤️, without a doubt, in a heartbeat. I will keep choosing you.🥹🥹*`) 
+                 await repondre(`*🙅Friendship may, and often does, grow into love, but love never subsides into friendship.*`) 
 
    
 
@@ -40,7 +40,7 @@ zokou({ nomCom: 'love',
 zokou({ nomCom: 'getall',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '😎', 
+    reaction: '🚶', 
     fromMe: 'true', 
 
 
@@ -85,7 +85,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10`) 
+                 await repondre(`https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x`) 
 
    
 
@@ -128,7 +128,7 @@ zokou({ nomCom: 'channel1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10`) 
+                 await repondre(`tap here to join our channel https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x `) 
 
    
 
@@ -148,7 +148,7 @@ zokou({ nomCom: 'aloo',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Redmi-XMD is running...... Love it_*`) 
+                 await repondre(`*_PKXMD-BOT is running...... Love it_*`) 
 
    
 
@@ -189,7 +189,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top a link to join boniphace group  https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10`) 
+                 await repondre(`top a link to join our group  https://chat.whatsapp.com/CJc8cuPX97VEOXVDHy0HhS`) 
 
    
 
@@ -249,7 +249,7 @@ zokou({ nomCom: 'me',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*check the developer via https://wa.me/c/254759000340*`) 
+                 await repondre(`*check the developer via https://wa.me/c/254785392165*`) 
 
    
 
@@ -270,14 +270,14 @@ zokou({ nomCom: 'problem',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(`*┏━━━━━━━━━━━━━━
-┃𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 🎉🎉🎉 
-| NEVER 
-┃DIE🔥
+┃PK DRILLER 🎉🎉🎉 
+| HERE
+┃4 U🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 TECH 𖥘
+❶ || Creator = 𖥘 Pk driller 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?👉 https://wa.me/c/254759000340 👈
