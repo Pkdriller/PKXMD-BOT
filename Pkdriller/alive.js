@@ -1,4 +1,4 @@
-const { zokou } = require('../framework/zokou');
+juconst { zokou } = require('../framework/zokou');
 const {addOrUpdateDataInAlive , getDataFromAlive} = require('../bdd/alive')
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
@@ -57,8 +57,7 @@ const date = moment().format('DD/MM/YYYY');
 // Checking for .jpeg or .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption: alivemsg }, { quoted: ms });
-        src="https://files.catbox.moe/wv2fg8.mp4"/
+        zk.sendMessage(dest, { image: { url: lien }, caption: alivemsg }, { quoted: ms })
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
