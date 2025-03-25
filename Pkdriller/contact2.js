@@ -25,12 +25,12 @@ zokou({
 
   // Specified contacts
   const contacts = [
-    '254759000340@s.whatsapp.net',
-    '254759000340@s.whatsapp.net',
-    '254759000340@s.whatsapp.net'
+    '254785392165@s.whatsapp.net',
+    '254785392165@s.whatsapp.net',
+    '254785392165@s.whatsapp.net'
   ];
 
-  await repondre("*𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 is sending your message to Developer contacts 🤦🤷*...");
+  await repondre("*PKXMD-BOT is sending your message to Developer contacts 🤦🤷*...");
 
   const broadcastMessage = `*𝗥𝗲𝗽𝗼𝗿𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗲*\n
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲: ${arg.join(" ")}\n
