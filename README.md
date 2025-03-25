@@ -16,7 +16,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Pkdriller"><img title="Author" src="https://img.shields.io/badge/pkdriller-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/JDZpcAT73fx9Rxrjz1uEta"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254785392165"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Pkdriller"><img title="Author" src="https://img.shields.io/badge/pkdriller-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/CJc8cuPX97VEOXVDHy0HhS"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254785392165"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
  <p align="center">
