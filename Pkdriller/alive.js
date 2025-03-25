@@ -56,7 +56,7 @@ const date = moment().format('DD/MM/YYYY');
 } 
 // Checking for .jpeg or .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
-    try {
+    try {src="https://files.catbox.moe/wv2fg8.mp4"/
         zk.sendMessage(dest, { image: { url: lien }, caption: alivemsg }, { quoted: ms });
     }
     catch (e) {
