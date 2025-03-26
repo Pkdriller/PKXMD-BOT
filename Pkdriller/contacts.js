@@ -92,7 +92,7 @@ zokou({ nomCom: 'channel',
 
   }
 );
-zokou({ nomCom: 'alone',
+zokou({ nomCom: 'pkxmd',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '🍁', 
@@ -105,7 +105,7 @@ zokou({ nomCom: 'alone',
 
                  await repondre(`ʜᴇʟʟᴏ.... ɪ'ᴍ ʜᴀᴘᴘʏ ᴛᴏ sᴇᴇ ʏᴏᴜ
 
-ᴀʟᴏɴᴇ ᴏᴡɴᴇʀ sᴀʏs ᴍᴏsᴛ ᴏғ ᴜᴘᴅᴀᴛᴇs ᴀʀᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴄᴏʀɴᴇʀ... ʏᴏᴜ ᴡɪʟʟ ᴇɴᴊᴏʏ ᴍᴏʀᴇ ᴄᴏᴍᴍᴀɴᴅs ᴀs ʜᴇ ᴀᴅᴅs ᴛʜᴇᴍ...
+PKXMD-BOT ᴏᴡɴᴇʀ sᴀʏs ᴍᴏsᴛ ᴏғ ᴜᴘᴅᴀᴛᴇs ᴀʀᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴄᴏʀɴᴇʀ... ʏᴏᴜ ᴡɪʟʟ ᴇɴᴊᴏʏ ᴍᴏʀᴇ ᴄᴏᴍᴍᴀɴᴅs ᴀs ʜᴇ ᴀᴅᴅs ᴛʜᴇᴍ...
 
 ....ᴜsᴇ ᴍᴇ ᴄᴀʀᴇғᴜʟʟʏ 
 
@@ -201,7 +201,7 @@ zokou({ nomCom: 'group1',
 zokou({ nomCom: 'scriptkidies',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '🐅', 
+    reaction: '⭐', 
     fromMe: 'true', 
 
 
@@ -209,7 +209,7 @@ zokou({ nomCom: 'scriptkidies',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top here to Alone script kiddies group https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E`) 
+                 await repondre(`top here to pkxmdbot script kiddies group https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x`) 
 
    
 
@@ -280,9 +280,9 @@ zokou({ nomCom: 'problem',
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://wa.me/c/254759000340 👈
+Wanna talk to me?👉 https://wa.me/c/254785392165 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-© *𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 TECH*`) 
+© *PK DRILLER*`) 
 
    
 
