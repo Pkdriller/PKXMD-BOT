@@ -2,7 +2,7 @@ const { zokou } = require("../framework/zokou");
 const { getAllSudoNumbers, isSudoTableNotEmpty } = require("../bdd/sudo");  
 const conf = require("../set");  
   
-zokou({ nomCom: "owner", categorie: "General", reaction: "🚘" }, async (dest, zk, commandeOptions) => {  
+zokou({ nomCom: "owner", categorie: "General", reaction: "⭐" }, async (dest, zk, commandeOptions) => {  
     const { ms, mybotpic } = commandeOptions;  
   
     const thsudo = await isSudoTableNotEmpty();  
@@ -55,7 +55,7 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "🚘" }, async (dest, 
     }  
 });  
   
-zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk, commandeOptions) => {  
+zokou({ nomCom: "dev", categorie: "General", reaction: "⭐" }, async (dest, zk, commandeOptions) => {  
     const { ms, mybotpic } = commandeOptions;  
   
     const devs = [  
