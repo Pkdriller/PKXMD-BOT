@@ -198,7 +198,7 @@ zokou({ nomCom: 'group1',
 )
 
 
-zokou({ nomCom: 'scriptkidies',
+zokou({ nomCom: 'scriptpkxmd',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '⭐', 
@@ -218,7 +218,7 @@ zokou({ nomCom: 'scriptkidies',
 )
 
 
-zokou({ nomCom: 'redmiwebs',
+zokou({ nomCom: 'pkxmdmiwebs',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '🤷', 
