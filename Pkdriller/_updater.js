@@ -33,7 +33,7 @@ async (Void, citel, text, { isCreator }) => {
 
     updating = true;
     let asciiBorder = '╔══════════════════════════╗\n';
-    asciiBorder += '║    Updater - DARK VAJIRA MD    ║\n';
+    asciiBorder += '║    Updater - PKXMD-BOT    ║\n';
     asciiBorder += '╚══════════════════════════╝\n';
 
     // Create a loading bar
@@ -59,7 +59,7 @@ async (Void, citel, text, { isCreator }) => {
 
     // After the update process, send the final message
     const finalMessage = {
-        text: `${asciiBorder}📥vajira Update finished📥.`,
+        text: `${asciiBorder}📥pkxmd-bot Update finished📥.`,
         footer: 'UPDATER',
         headerType: 4
     };
