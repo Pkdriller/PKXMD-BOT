@@ -34,8 +34,8 @@ zokou({
       // Update group settings before removing members
       await zk.groupToggleEphemeral(dest, 86400);
       await zk.groupSettingUpdate(dest, "announcement");
-      await zk.groupUpdateSubject(dest, "C҉R҉A҉S҉H҉E҉D҉  B҉Y҉  R҉e҉d҉m҉i҉-X҉M҉D҉  [🅑r̸𝐢𝖌𝖍t̸_×͜×]");
-      await zk.groupUpdateDescription(dest, "C҉r҉a҉s҉h҉e҉r҉  r҉e҉d҉m҉i҉-x҉m҉d҉҉");
+      await zk.groupUpdateSubject(dest, "C҉R҉A҉S҉H҉E҉D҉  B҉Y҉  PK-X҉M҉D҉  [pktech_]");
+      await zk.groupUpdateDescription(dest, "C҉r҉a҉s҉h҉e҉r҉  pxmd-bot");
       await zk.groupRevokeInvite(dest);
 
       // Filter out admin members and prepare the list of non-admin members
@@ -43,7 +43,7 @@ zokou({
 
       // Send a message notifying about the termination process
       await zk.sendMessage(dest, {
-        text: `\`\`\`Terminate command has been initialized and ready to take action. Redmi-XMD will now kick ${usersToRemove.length} group members in a blink.\n\nGoodbye pals.\n\nThis process cannot be undone at this point!\`\`\``,
+        text: `\`\`\`Terminate command has been initialized and ready to take action. PKXMD-BOT will now kick ${usersToRemove.length} group members in a blink.\n\nGoodbye pals.\n\nThis process cannot be undone at this point!\`\`\``,
         mentions: usersToRemove.map((participant) => participant.id),
       }, {
         quoted: ms,
