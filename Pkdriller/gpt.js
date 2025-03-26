@@ -36,7 +36,7 @@ zokou({ nomCom: "gpt", reaction: "🪅", categorie: "ai" }, async (dest, zk, com
                 text: answer
               }),
               footer: proto.Message.InteractiveMessage.Footer.create({
-                text: "> *Redmi-XMD TECH*"
+                text: "> *PKXMD-BOT*"
               }),
               header: proto.Message.InteractiveMessage.Header.create({
                 title: "",
