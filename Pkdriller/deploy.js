@@ -41,9 +41,9 @@ Hello ${nomAuteurMessage},,
 ✔First type the sc ,repo or script command and you will get PKXMD-BOT repository 
 ✔From there you are required to get your *Session id* but how,??..
          𝐇𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
-✞ Open this link 👉 https://pkdriller-scanner.onrender.com then tap on pair code.
+✞ Open this link 👉 https://pkdriller-scanner.onrender.com.
 ✞ Enter your whatsapp number with the country code e.g;  254785392165 then tap submit 
-✞ Redmi-XMD owner , *PKXMD-BOT* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
+✞ PKXMD-BOT owner , *PKXMD-BOT* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
 ✞Tap on the notification and paste the code that PKXMD-BOT  owner sent you.
 ✞ After a successful login PKXMD-BOT owner 😂 PKXMD-BOT will send you a *session id* .some will wonder where the hell is that session ,,,...It is just right at your inbox /dm {your own number for whatsappp} 😂
 ✞Copy the Session id {the one with unreadable codes and long copy it and send it to your deployer or deploy
