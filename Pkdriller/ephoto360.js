@@ -1,7 +1,7 @@
 module.exports = [ 
  {
   command: ["1917style"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}1917style Tylor*`);
@@ -11,7 +11,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
@@ -24,7 +24,7 @@ module.exports = [
 },
  {
   command: ["advancedglow"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}advancedglow Tylor*`);
@@ -47,7 +47,7 @@ module.exports = [
 },
  {
   command: ["blackpinklogo"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}blackpinklogo Tylor*`);
@@ -70,7 +70,7 @@ module.exports = [
 },
 {
   command: ["blackpinkstyle"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}blackpinkstyle Tylor*`);
@@ -93,7 +93,7 @@ module.exports = [
 }, 
 {
   command: ["cartoonstyle"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}cartoonstyle Tylor*`);
@@ -116,7 +116,7 @@ module.exports = [
 },
 {
   command: ["deletingtext"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}deletingtext Tylor*`);
@@ -126,7 +126,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
@@ -139,7 +139,7 @@ module.exports = [
 },
 {
   command: ["dragonball"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}dragonball Tylor*`);
@@ -162,7 +162,7 @@ module.exports = [
 },
 {
   command: ["effectclouds"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}effectclouds Tylor*`);
@@ -185,7 +185,7 @@ module.exports = [
 }, 
 {
   command: ["flag3dtext"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}flag3dtext Tylor*`);
@@ -208,7 +208,7 @@ module.exports = [
 }, 
  {
   command: ["flagtext"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}flagtext Tylor*`);
@@ -231,7 +231,7 @@ module.exports = [
 }, 
 {
   command: ["freecreate"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}freecreate Tylor*`);
@@ -254,7 +254,7 @@ module.exports = [
 }, 
  {
   command: ["galaxystyle"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}galaxystyle Tylor*`);
@@ -277,7 +277,7 @@ module.exports = [
 }, 
 {
   command: ["galaxywallpaper"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}galaxywallpaper Tylor*`);
@@ -300,7 +300,7 @@ module.exports = [
 }, 
 {
   command: ["glitchtext"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}glitchtext Tylor*`);
@@ -323,7 +323,7 @@ module.exports = [
 }, 
 {
   command: ["glowingtext"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}glowingtext Tylor*`);
@@ -346,7 +346,7 @@ module.exports = [
 },
 {
   command: ["gradienttext"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmdbot, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}gradienttext Tylor*`);
@@ -369,7 +369,7 @@ module.exports = [
 },
 {
   command: ["graffiti"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmdbot, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}graffiti Tylor*`);
@@ -392,7 +392,7 @@ module.exports = [
 },
 {
   command: ["incandescent"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmdbot, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}incandescent Tylor*`);
@@ -415,7 +415,7 @@ module.exports = [
 },
 {
   command: ["lighteffects"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmdbot, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}lighteffects Tylor*`);
@@ -438,7 +438,7 @@ module.exports = [
 },
 {
   command: ["logomaker"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmdbot, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}logomaker Tylor*`);
@@ -461,7 +461,7 @@ module.exports = [
 },
 {
   command: ["luxurygold"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}luxurygold Tylor*`);
@@ -484,7 +484,7 @@ module.exports = [
 },
 {
   command: ["makingneon"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}makingneon Tylor*`);
@@ -507,7 +507,7 @@ module.exports = [
 },
 {
   command: ["matrix"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}matrix Tylor*`);
@@ -530,7 +530,7 @@ module.exports = [
 },
 {
   command: ["multicoloredneon"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}multicoloredneon Tylor*`);
@@ -553,7 +553,7 @@ module.exports = [
 },
 {
   command: ["neonglitch"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}neonglitch Tylor*`);
@@ -563,7 +563,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
@@ -576,7 +576,7 @@ module.exports = [
 },
 {
   command: ["papercutstyle"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}papercutstyle Tylor*`);
@@ -586,7 +586,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
@@ -599,7 +599,7 @@ module.exports = [
 },
 {
   command: ["pixelglitch"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}pixelglitch Tylor*`);
@@ -609,7 +609,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
@@ -622,7 +622,7 @@ module.exports = [
 },
 {
   command: ["royaltext"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}royaltext Tylor*`);
@@ -632,7 +632,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
@@ -645,7 +645,7 @@ module.exports = [
 },
 {
   command: ["sand"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}sand Tylor*`);
@@ -655,7 +655,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
@@ -668,7 +668,7 @@ module.exports = [
 },
 {
   command: ["summerbeach"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}summerbeach Tylor*`);
@@ -678,7 +678,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
@@ -691,7 +691,7 @@ module.exports = [
 },
 {
   command: ["topography"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}topography Tylor*`);
@@ -701,7 +701,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
@@ -714,7 +714,7 @@ module.exports = [
 },
 {
   command: ["typography"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}typography Tylor*`);
@@ -724,7 +724,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
@@ -737,7 +737,7 @@ module.exports = [
 },
 {
   command: ["watercolortext"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}watercolortext Tylor*`);
@@ -747,7 +747,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
@@ -760,7 +760,7 @@ module.exports = [
 },
 {
   command: ["writetext"],
-  operate: async ({ m, args, reply, Cypher, prefix, mess, ephoto }) => {
+  operate: async ({ m, args, reply, pkxmd, prefix, mess, ephoto }) => {
     let q = args.join(" ");
     if (!q) {
       return reply(`*Example: ${prefix}writetext Tylor*`);
@@ -770,7 +770,7 @@ module.exports = [
 
     try {
       let result = await ephoto(link, q);
-      await Cypher.sendMessage(
+      await pkxmd.sendMessage(
         m.chat,
         { image: { url: result }, caption: `${mess.success}` },
         { quoted: m }
