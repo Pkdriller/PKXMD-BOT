@@ -92,6 +92,6 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "⭐" }, async (dest, zk,
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {  
     const { ms, repondre, auteurMessage } = commandeOptions;  
   
-    repondre("THANK YOU FOR CHOOSING PKXMD-BOT, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/JDZpcAT73fx9Rxrjz1uEta] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/Pkdriller/PKXMD-BOT] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 𝑷𝒌𝒅𝒓𝒊𝒍𝒍𝒆𝒓");  
+    repondre("THANK YOU FOR CHOOSING PKXMD-BOT, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/KoWtaT1whbDJtgAYPbYJBq] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/Pkdriller/PKXMD-BOT] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 𝑷𝒌𝒅𝒓𝒊𝒍𝒍𝒆𝒓");  
     await zk.sendMessage(auteurMessage, { text: `THANK YOU FOR CHOOSING PKXMD-BOT, MAKE SURE YOU FOLLOW THESE LINKS.` }, { quoted: ms });  
 });
