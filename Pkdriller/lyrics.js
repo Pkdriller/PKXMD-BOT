@@ -42,7 +42,7 @@ zokou({
 
         // Format the message to send to the user
         const formattedMessage = `
-*𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿 LYRICS FINDER*
+*PKXMD-BOT LYRICS FINDER*
 *Title:* ${title}
 *Artist:* ${artist}
 
