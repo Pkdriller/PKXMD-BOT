@@ -94,7 +94,7 @@ zokou({ nomCom: "tourl", categorie: "General", reaction: "👨🏿‍💻" }, as
                 repondre(`PKXMD-BOT url: ${catboxUrl}`);
                 break;
             case 'audio':
-                repondre(`BWC-XMD url: ${catboxUrl}`);
+                repondre(`PKXMD-BOT url: ${catboxUrl}`);
                 break;
             default:
                 repondre('An unknown error occurred.');
