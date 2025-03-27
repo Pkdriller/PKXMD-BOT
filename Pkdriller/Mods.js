@@ -47,7 +47,7 @@ const sleep =  (ms) =>{
         type = 'not animated sticker'
       }
   
-      let msg = `   Redmi-XMD-stickers-dl
+      let msg = `   PKXMD-BOT-stickers-dl
       
   *Name :* ${stickers.data.result.name}
   *Type :* ${type} 
