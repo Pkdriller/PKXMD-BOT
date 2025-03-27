@@ -230,14 +230,14 @@ zokou({
     const response = await axios.get("https://nekos.life/api/v2/fact");
     const data = response.data;
     const factMessage = `
-┏━━━━ *Redmi-XMD-FACT* ━━━━━◆                     
+┏━━━━ *PK-XMD-FACT* ━━━━━◆                     
 ┃
 ┃   *◇* ${data.fact} 
 ┃
-┃   *◇* Regards *Redmi-XMD*
+┃   *◇* Regards *PKXMD-BOT*
 ┃      
  ╭────────────────◆
- │ *_Powered by 🅑r̸𝐢𝖌𝖍t̸_×͜×._*
+ │ *_Powered by PK DRILLER
  ╰─────────────────◆
     `;
 
@@ -276,10 +276,10 @@ zokou({
 ┃  
 ┃   *◇* *AUTHOR:* ${data.quote.author}
 ┃      
-┃    *◇*  *regards Redmi-XMD*
+┃    *◇*  *regards PKXMD-BOT*
 ┃    
 ╭────────────────◆
-│ *_Powered by 🅑r̸𝐢𝖌𝖍t̸_×͜×._*
+│ *_Powered by PK DRILLER
 ╰─────────────────◆
     `;
 
