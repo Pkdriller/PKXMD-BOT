@@ -17,11 +17,11 @@ cmd({
   }
 
   try {
-    await reply("*📡 ᴄʜᴇᴄᴋɪɴɢ ғᴏʀ 𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿 ᴜᴘᴅᴀᴛᴇs...*");
+    await reply("*📡 ᴄʜᴇᴄᴋɪɴɢ ғᴏʀ PKXMD-BOT ᴜᴘᴅᴀᴛᴇs...*");
     
     // Get latest commit from GitHub
     const { data: commitData } = await axios.get(
-      "https://api.github.com/repos/Black-Tappy/Bumblee-Bee/commits/main"
+      "https://api.github.com/repos/pkdriller/PKXMD-BOT/commits/main"
     );
     const latestCommitHash = commitData.sha;
 
@@ -35,15 +35,15 @@ cmd({
     }
 
     if (latestCommitHash === currentHash) {
-      return reply("*☇ 𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿 ɪs ᴏɴ ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ: 🤖͎᪳᪳*");
+      return reply("*☇ PKXMD-BOT ɪs ᴏɴ ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ: 🤖͎᪳᪳*");
     }
 
-    await reply("*⏰ 𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿 ʙᴏᴛ ᴜᴘᴅᴀᴛɪɴɢ...*");
+    await reply("*⏰ PKXMD-BOT ʙᴏᴛ ᴜᴘᴅᴀᴛɪɴɢ...*");
     
     // Download latest code
     const zipPath = path.join(__dirname, "latest.zip");
     const { data: zipData } = await axios.get(
-      "https://github.com/Black-Tappy/Bumblebee-XMD/archive/main.zip",
+      "https://github.com/pkdriller/PKXMD-BOT/archive/main.zip",
       { responseType: "arraybuffer" }
     );
     fs.writeFileSync(zipPath, zipData);
@@ -58,7 +58,7 @@ cmd({
     await reply("*🔄 ʀᴇᴘʟᴀᴄɪɴɢ ғɪʟᴇs...*");
     
     // Copy updated files
-    const sourcePath = path.join(extractPath, "Bumblebe-XMD-main");
+    const sourcePath = path.join(extractPath, "PKXMD-BOT-main");
     const destinationPath = path.join(__dirname, '..');
     copyFolderSync(sourcePath, destinationPath);
 
