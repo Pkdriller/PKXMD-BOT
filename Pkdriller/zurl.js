@@ -88,10 +88,10 @@ zokou({ nomCom: "tourl", categorie: "General", reaction: "👨🏿‍💻" }, as
         // Respond with the URL based on media type
         switch (mediaType) {
             case 'image':
-                repondre(`BWC-XMD url: ${catboxUrl}`);
+                repondre(`PKXMD-BOT url: ${catboxUrl}`);
                 break;
             case 'video':
-                repondre(`BWC-XMD url: ${catboxUrl}`);
+                repondre(`PKXMD-BOT url: ${catboxUrl}`);
                 break;
             case 'audio':
                 repondre(`BWC-XMD url: ${catboxUrl}`);
