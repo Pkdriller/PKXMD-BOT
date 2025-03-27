@@ -137,7 +137,7 @@ zokou({ nomCom: 'channel1',
 );
 
 
-zokou({ nomCom: 'aloo',
+zokou({ nomCom: 'rtime',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '🤷', 
@@ -189,7 +189,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top a link to join our group  https://chat.whatsapp.com/CJc8cuPX97VEOXVDHy0HhS`) 
+                 await repondre(`top a link to join our group  https://chat.whatsapp.com/KoWtaT1whbDJtgAYPbYJBq`) 
 
    
 
