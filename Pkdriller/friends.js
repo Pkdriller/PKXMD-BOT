@@ -20,16 +20,16 @@ zokou({
     'numero': "254785392165" 
   },{
     'nom': "DEPLOMENT SERVICES",
-    'numero': "+265 885 94 70 19"
+    'numero': "254736761160"
   }, {
-    'nom': "",
-    'numero': ""
+    'nom': "hacker",
+    'numero': "254799056874"
   }, {
-    'nom': "",
-    'numero': ""
+    'nom': "codding teacher",
+    'numero': "254794146821"
   }, {
-    'nom': "",
-    'numero': ""
+    'nom': "tech champ",
+    'numero': "254702221671"
   }, {
     'nom': "",
     'numero': ""
