@@ -127,9 +127,10 @@ BY FOLLOWING US ON SOCIAL MEDIA PLATFORMS FOR UPDATES</h3>
 - *Misuse PKXMD-BOT at your own risk by keeping this warning in mind.*
   
   
+---
 ![Visitor Count](https://profile-counter.glitch.me/pkdriller/count.svg)
 
-a>
+
 
 ### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/pkdriller)
 <b>Version -> 4.0.0</b>
