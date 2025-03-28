@@ -1,14 +1,11 @@
-
-
-
 const axios = require("axios");
 const config = require('../config');
 const { cmd } = require('../command');
 
 cmd({
-  pattern: "ss",
-  alias: ["ssweb"],
-  react: "🚀",
+  pattern: "sss",
+  alias: ["screenweb"],
+  react: "💫",
   desc: "Download screenshot of a given link.",
   category: "other",
   use: ".ss <link>",
@@ -21,25 +18,32 @@ async (conn, mek, m, {
   isBotAdmins, isAdmins, reply 
 }) => {
   if (!q) {
-    return reply("Please provide a URL to capture a screenshot.");
+    return reply("براہ کرم اسکرین شاٹ لینے کے لیے ایک لنک فراہم کریں۔");
   }
 
   try {
-    
-    const response = await axios.get(`https://bk9.fun/tools/screenshot?device=tablet&url= ${q}`);
-    const screenshotUrl = response.data.screenshotUrl;
+    const response = await axios.get(`https://api.diioffc.web.id/api/tools/sstab?url=${encodeURIComponent(q)}`);
+    console.log(response.data); // API response check karne ke liye
 
-    // give credit and use
+    const screenshotUrl = response.data.result;
+
+    if (!screenshotUrl) {
+        console.log("Screenshot URL not found in API response.");
+        return reply("اسکرین شاٹ کا URL نہیں ملا۔");
+    }
+
+    console.log("Screenshot URL:", screenshotUrl); // Confirm karte hain URL ko
+
     const imageMessage = {
       image: { url: screenshotUrl },
-      caption: "*BRIGHT SS WEB*\n\n> *© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ʙᴜᴍʙʟᴇʙᴇᴇ-xᴍᴅ🎗️*",
+      caption: "*📸 WEB SCREENSHOT DOWNLOADER*\n\n> *© Powered By CASEYRHODES*",
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363318387454868@newsletter',
-          newsletterName: "𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿 🍁",
+          newsletterJid: '120363302677217436@newsletter',
+          newsletterName: "CASEYRHODES XMD",
           serverMessageId: 143,
         },
       },
@@ -47,7 +51,7 @@ async (conn, mek, m, {
 
     await conn.sendMessage(from, imageMessage, { quoted: m });
   } catch (error) {
-    console.error(error);
-    reply("Failed to capture the screenshot. Please try again.");
+    console.error("Error:", error);
+    reply("اسکرین شاٹ لینے میں ناکامی۔ براہ کرم دوبارہ کوشش کریں۔");
   }
 });
