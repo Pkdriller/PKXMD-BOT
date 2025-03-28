@@ -111,4 +111,27 @@
 <h3 align="center">THANKS TO EVERYONE WHO IS USING PKXMD-BOT CONTINUE SHOWING LOVE
 BY FOLLOWING US ON SOCIAL MEDIA PLATFORMS FOR UPDATES</h3>
 
-        
+      
+<h2 align="center"> ⚠️ WARNING ⚠️
+ </h2>
+ 
+## PKXMD-BOT SCRIPT IS NOT OPENLY ALLOWED TO BE USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+
+
+
+  
+  
+
+- *PKXMD-BOT is not made by `WhatsApp Inc.` Sometimes misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Misuse PKXMD-BOT at your own risk by keeping this warning in mind.*
+  
+  
+![Visitor Count](https://profile-counter.glitch.me/pkdriller/count.svg)
+
+a>
+
+### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/pkdriller)
+<b>Version -> 0.0.0</b>
+
+
