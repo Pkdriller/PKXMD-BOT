@@ -11,7 +11,7 @@ async(conn, mek, m,{from, prefix, l, quoted, body, isCmd, command, args, q, isGr
 try{
 let menuc = `*● ══════════════ ●*
 
-   *QUEEN-IZUMI-MD DOWNLOAD COMMANDS MENU*\n\n`
+   *PKXMD-BOT DOWNLOAD COMMANDS MENU*\n\n`
 for (let i=0;i<commands.length;i++) { 
 if(commands[i].category === 'download'){
   if(!commands[i].dontAddCommandList){
@@ -58,7 +58,7 @@ async(conn, mek, m,{from, prefix, l, quoted, body, isCmd, command, args, q, isGr
 try{
 let menuc = `*● ══════════════ ●*
 
-   *QUEEN-IZUMI-MD SEARCH COMMANDS MENU*\n\n`
+   *PKXMD-BOT SEARCH COMMANDS MENU*\n\n`
 for (let i=0;i<commands.length;i++) { 
 if(commands[i].category === 'search'){
   if(!commands[i].dontAddCommandList){
@@ -104,7 +104,7 @@ async(conn, mek, m,{from, prefix, l, quoted, body, isCmd, command, args, q, isGr
 try{
 let menuc = `*● ══════════════ ●*
 
-   *QUEEN-IZUMI-MD CONVERT COMMANDS MENU*\n\n`
+   *PKXMD-BOT CONVERT COMMANDS MENU*\n\n`
 for (let i=0;i<commands.length;i++) { 
 if(commands[i].category === 'convert'){
   if(!commands[i].dontAddCommandList){
@@ -151,7 +151,7 @@ async(conn, mek, m,{from, prefix, l, quoted, body, isCmd, command, args, q, isGr
 try{
 let menuc = `*● ══════════════ ●*
 
-   *QUEEN-IZUMI-MD LOGO COMMANDS MENU*\n\n`
+   *PKXMD-BOT LOGO COMMANDS MENU*\n\n`
 for (let i=0;i<commands.length;i++) { 
 if(commands[i].category === 'logo'){
 if(!commands[i].dontAddCommandList){
@@ -197,7 +197,7 @@ async(conn, mek, m,{from, prefix, l, quoted, body, isCmd, command, args, q, isGr
 try{
 let menuc = `*● ══════════════ ●*
 
-   *QUEEN-IZUMI-MD OWNER COMMANDS MENU*\n\n`
+   *PKXMD-BOT OWNER COMMANDS MENU*\n\n`
 for (let i=0;i<commands.length;i++) { 
 if(commands[i].category === 'owner'){
 if(!commands[i].dontAddCommandList){
@@ -244,7 +244,7 @@ async(conn, mek, m,{from, prefix, l, quoted, body, isCmd, command, args, q, isGr
 try{
 let menuc = `*● ══════════════ ●*
 
-   * QUEEN-IZUMI-MD ADMIN COMMANDS MENU*\n\n`
+   * PKXMD-BOT ADMIN COMMANDS MENU*\n\n`
 for (let i=0;i<commands.length;i++) { 
 if(commands[i].category === 'admin'){
 if(!commands[i].dontAddCommandList){
@@ -290,7 +290,7 @@ async(conn, mek, m,{from, prefix, l, quoted, body, isCmd, command, args, q, isGr
 try{
 let menuc = `*● ══════════════ ●*
 
-   * QUEEN-IZUMI-MD OTHER COMMANDS MENU*\n\n`
+   * PKXMD-BOT OTHER COMMANDS MENU*\n\n`
 for (let i=0;i<commands.length;i++) { 
 if(commands[i].category === 'other'){
 if(!commands[i].dontAddCommandList){
@@ -307,7 +307,7 @@ let generatebutton = [{
   },{
     buttonId: `${prefix}ping`,
     buttonText: {
-        displayText: 'Qᴜᴇᴇɴ-ɪᴢᴜᴍɪ-ᴍᴅ ꜱᴘᴇᴇᴅ'
+        displayText: 'PKXMD-BOT ꜱᴘᴇᴇᴅ'
     },
     type: 1
   }]
