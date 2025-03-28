@@ -25,7 +25,7 @@ zokou({
     }
 
     // Construct playlist message
-    let playlistMessage = `𝙍𝙚𝙙𝙢𝙞-𝙓𝙈𝘿 𝐒𝐏𝐎𝐓𝐈𝐅𝐘 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓\n\n`;
+    let playlistMessage = `PKXMD-BOT 𝐒𝐏𝐎𝐓𝐈𝐅𝐘 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓\n\n`;
 
     // Loop through search results and construct track info with numbers
     searchData.forEach((track, index) => {
@@ -46,9 +46,9 @@ zokou({
           mentionedJid: [dest],  // Mention the sender's JID
           externalAdReply: {
             showAdAttribution: true,
-            title: "Redmi-XMD SPOTIFY LIST",
-            body: "Powered by 🅑r̸𝐢𝖌𝖍t̸_×͜×",
-            sourceUrl: "https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10",
+            title: "PKXMD-BOT SPOTIFY LIST",
+            body: "Powered by pk tech",
+            sourceUrl: "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x",
             mediaType: 1,
             renderLargerThumbnail: false,
           },
