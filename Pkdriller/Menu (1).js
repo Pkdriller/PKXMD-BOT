@@ -29,7 +29,7 @@ try{
 const config = await readEnv();
 let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
-*Queen_Ahinsa-MD*
+*PKX-MD*
 
      *${pushname}*
      
@@ -39,7 +39,7 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
       *Queen_Ahinsa-MD Official Menu*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*Queen_Ahinsa-MD Select Your Favourite Catacory³²👨🏻‍💻*
+*PKX-MD Select Your Favourite Catacory³²👨🏻‍💻*
 
 
 *╭──❮ DOWNLOAD COMMANDS ❯*
@@ -160,7 +160,7 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Queen_Ahinsa-MD Official Whatsapp Bot³²*
+PKX-MD Official Whatsapp Bot³²*
 
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
@@ -173,11 +173,11 @@ await conn.sendMessage(from, { text: madeMenu ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "QUEEN_AHINSA-MD",
+      newsletterName: "PKX-MD",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: '◀︎Queen_Ahinsa-MD MENU▶︎',
+title: '◀︎PKX-MD MENU▶︎',
 body: `${pushname}`,
 mediaType: 1,
 thumbnailUrl: "https://i.ibb.co/SR76mBh/Pu3-ZYHBS5139.jpg" ,
