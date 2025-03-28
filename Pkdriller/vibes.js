@@ -24,7 +24,7 @@ zokou({
     const groupIds = groupzs.map(v => v.id);
     let responseMessage = `*GROUPS AM IN*\n\n`;
 
-    repondre(`You are currently in ${groupIds.length} groups. Popkid MD will send that list shortly...`);
+    repondre(`You are currently in ${groupIds.length} groups. PKXMD will send that list shortly...`);
 
     for (const id of groupIds) {
       const metadata = await zk.groupMetadata(id);
@@ -75,7 +75,7 @@ const generateImage = async (messageId, sender, prompt, category) => {
       image: {
         url: imageUrl
       },
-      caption: "*powered by POPKID-MD*"
+      caption: "*powered by PKXMD-BOT*"
     });
   } catch (error) {
     console.error("Error generating image:", error);
