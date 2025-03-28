@@ -132,6 +132,7 @@ BY FOLLOWING US ON SOCIAL MEDIA PLATFORMS FOR UPDATES</h3>
 a>
 
 ### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/pkdriller)
-<b>Version -> 0.0.0</b>
+<b>Version -> 4.0.0</b>
+[![PKXMD-BOT](https://readme-typing-svg.demolab.com?font=Anton&size=25&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=340&lines=Have+a%F0%9F%91%8B!+Day;goodluck+on+your+deployment;programmed+by+pk+driller💙🚶)]
 
 
