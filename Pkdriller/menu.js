@@ -34,7 +34,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭──────────────────❂
- ☯╭───*𝐏𝐎𝐏𝐊𝐈𝐃-𝐌𝐃*────❂
+ ☯╭───*PKXMD-BOT*────❂
 ┊〄┊ *𝐔𝐬𝐞𝐫* : ${s.OWNER_NAME}
 ┊〄┊ *𝐌𝐨𝐝𝐞* : ${mode}
 ┊〄╰───────────────❂
@@ -44,7 +44,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰──────────────────❂ \n\n`;
  
     let menuMsg=`  
-  *𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒*
+  *PKXMD-BOT 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒*
 `;
 
     for (const cat in coms) {
@@ -61,7 +61,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *—————♥️♥️♥️♥️—————*
 
-  *𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃*                                         
+  *PKXMD-BOT*                                         
 *╰═════════════❂*
 `;
 
