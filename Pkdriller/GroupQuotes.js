@@ -37,7 +37,7 @@ Powered by *PKXMD-BOT*`);
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *DULLAH MD*`);
+Powered by *PKXMD-BOT*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
