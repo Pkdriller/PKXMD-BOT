@@ -61,7 +61,7 @@ fetch(`http://api.brainshop.ai/get?bid=182418&key=UQXAO1yyrPLRnhf6&uid=[uid]&msg
       const response = await axios.get(`http://api.maher-zubair.tech/ai/photoleap?q=${image}`);
       
       const data = response.data;
-      let caption = '┃powered by ⬡〘DULLAH MD〙⬡┃';
+      let caption = '┃powered by ⬡〘PKXMD-BOT〙⬡┃';
       
       if (data.status == 200) {
         // Utiliser les données retournées par le service
