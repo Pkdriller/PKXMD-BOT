@@ -42,7 +42,7 @@ zokou({
 
         // Format the message to send to the user
         const formattedMessage = `
-*Redmi-XMD PLANET LYRICS FINDER*
+*PKXMD-BOT LYRICS FINDER*
 *Title:* ${title}
 *Artist:* ${artist}
 
