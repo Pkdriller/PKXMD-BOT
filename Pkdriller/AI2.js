@@ -9,12 +9,12 @@ const conf = require('../set');
 
 
 
-zokou({nomCom:"dullah",reaction:"📡",categorie:"Ai"},async(dest,zk,commandeOptions)=>{
+zokou({nomCom:"pkbot",reaction:"📡",categorie:"Ai"},async(dest,zk,commandeOptions)=>{
 
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("Nambie Nakusikiliza mkuu unasemaje.🤔")}
+    {return repondre("Nambie Nakusikiliza mkuu unasemaje.🤔ni pk apa")}
     //var quest = arg.join(' ');
   try{
     
