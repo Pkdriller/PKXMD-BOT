@@ -1,4 +1,3 @@
-
 function apply(map, text) {
     let result = "";
     for (let character of text.split("")) {
@@ -11,10 +10,10 @@ function apply(map, text) {
 
 function list(text, fancy) {
     let styles = Object.keys(fancy).filter(e => e.length < 3);
-    let msg = '\n*Availabe Fancy styles for BMW-MD:*\n\n';
+    let msg = '\n*Fancy Disponible:*\n\n';
     for (let style in styles) {
         if (style == 33) {
-            msg += (parseInt(style) + 1) + '. ' + 'bmw-md' + '\n';
+            msg += (parseInt(style) + 1) + '. ' + 'zokou-md' + '\n';
         } else {
             msg += (parseInt(style) + 1) + '. ' + fancy.apply(fancy[parseInt(style)], text) + '\n';
         }
