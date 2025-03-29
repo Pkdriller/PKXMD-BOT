@@ -13,13 +13,13 @@ zokou({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions)
       fetch('https://animechan.xyz/api/random')
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`*DULLAH_MD Quotes*
+          repondre(`*PKXMD-BOT Quotes*
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *DULLAH_MD*`);
+Powered by *PKXMD-BOT*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -31,7 +31,7 @@ Powered by *DULLAH_MD*`);
       fetch('https://animechan.xyz/api/random/character?name=' + query)
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`DULLAH_MD
+          repondre(`PKXMD-BOT
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
